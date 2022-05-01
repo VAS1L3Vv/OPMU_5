@@ -32,7 +32,7 @@ namespace Spectr2 {
         //! Функция инициализации
         virtual DWORD init(HWND hwnd)
         {
-            LPDIVPARAM div = static_cast<LPDIVPARAM>(init_device(sizeof(DIVPARAM), 2, 2)); // указано 2 входа и 2 выхода
+            LPDIVPARAM div = static_cast<LPDIVPARAM>(init_device(sizeof(DIVPARAM), 6, 1)); // указано 2 входа и 2 выхода
             div->CONST_DIV = 2;
             return 1;
         }
