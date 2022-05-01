@@ -1,0 +1,5 @@
+﻿  basedevice.cpp
+C:\Users\Пользователь\Desktop\ОПМУ\Проект 5\test_dll\sdk\src\basedevice.cpp(10,10): fatal error C1083: Не удается открыть файл включение: spectr2/basedevice.h: No such file or directory,
+  test_dll.cpp
+C:\Users\Пользователь\Desktop\ОПМУ\Проект 5\test_dll\test_dll.h(2,10): fatal error C1083: Не удается открыть файл включение: spectr2/basedevice.h: No such file or directory,
+  Создание кода...
