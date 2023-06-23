@@ -1,0 +1,5 @@
+LIBRARY Sig_Divider
+
+EXPORTS
+        devGetDllInfo
+        devGetDevices
