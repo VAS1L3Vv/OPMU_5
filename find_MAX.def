@@ -1,0 +1,5 @@
+LIBRARY Find_MAX
+
+EXPORTS
+        devGetDllInfo
+        devGetDevices
