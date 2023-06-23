@@ -1,5 +1,0 @@
-﻿  test_dll.vcxproj -> C:\Users\Пользователь\Desktop\ОПМУ\Проект 5\test_dll\Release\test_dll.dll
-  "postbuild.cmd" не является внутренней или внешней
-  командой, исполняемой программой или пакетным файлом.
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(156,5): error MSB3073: выход из команды "postbuild.cmd
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(156,5): error MSB3073: :VCEnd" с кодом 9009.
