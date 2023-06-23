@@ -1,4 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (test_dll.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  main.cpp
-H:\VS\Projects\Лаб5Вар2Васильев\Sig_Divider\main.cpp(49): warning C4101: i: неиспользованная локальная переменная
-  test_dll.vcxproj -> H:\VS\Projects\Лаб5Вар2Васильев\Sig_Divider\Debug\Sig_Divider.dll
